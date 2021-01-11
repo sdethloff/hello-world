@@ -2,4 +2,4 @@
 Just another repository
 Hi!
 
-My name is Sam Dethloff and this my first commit.
+My name is Sam Dethloff and this is my first commit.
